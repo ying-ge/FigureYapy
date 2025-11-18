@@ -24,6 +24,8 @@ For more information, complete project documentation, and analyses that do not r
 
 🔗 **https://ying-ge.github.io/FigureYa**
 
+🔗 **https://github.com/ying-ge/FigureYa**
+
 ## 引用 / Citation
 
 Xiaofan Lu, et al. (2025). FigureYa: A Standardized Visualization Framework for Enhancing Biomedical Data Interpretation and Research Efficiency. _iMetaMed_. <https://doi.org/10.1002/imm3.70005>
